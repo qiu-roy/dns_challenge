@@ -1,0 +1,849 @@
+{
+  "0": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00702_chp_0022_reader_09751_28_DLIVING_ch14_snr2_tl-24_fileid_0.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_0.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_0.wav",
+    "snr": 2,
+    "file_len": 480000
+  },
+  "1": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01578_chp_0014_reader_05607_19_STRAFFIC_ch01_snr2_tl-28_fileid_1.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_1.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_1.wav",
+    "snr": 2,
+    "file_len": 480000
+  },
+  "10": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00622_chp_0009_reader_05331_5_SPSQUARE_ch01_snr4_tl-26_fileid_10.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_10.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_10.wav",
+    "snr": 4,
+    "file_len": 480000
+  },
+  "100": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02285_chp_0003_reader_03316_30_PSTATION_ch16_snr-3_tl-29_fileid_100.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_100.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_100.wav",
+    "snr": -3,
+    "file_len": 480000
+  },
+  "101": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02857_chp_0001_reader_10572_31_DKITCHEN_ch16_snr4_tl-18_fileid_101.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_101.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_101.wav",
+    "snr": 4,
+    "file_len": 480000
+  },
+  "102": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01267_chp_0001_reader_07886_1_OHALLWAY_ch14_snr5_tl-22_fileid_102.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_102.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_102.wav",
+    "snr": 5,
+    "file_len": 480000
+  },
+  "103": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01982_chp_0015_reader_02538_13_SPSQUARE_ch16_snr0_tl-26_fileid_103.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_103.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_103.wav",
+    "snr": 0,
+    "file_len": 480000
+  },
+  "104": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03940_chp_0009_reader_00142_24_TMETRO_ch02_snr3_tl-19_fileid_104.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_104.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_104.wav",
+    "snr": 3,
+    "file_len": 480000
+  },
+  "105": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02417_chp_0026_reader_02878_38_DKITCHEN_ch05_snr5_tl-25_fileid_105.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_105.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_105.wav",
+    "snr": 5,
+    "file_len": 480000
+  },
+  "106": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01364_chp_0017_reader_11302_8_NFIELD_ch02_snr-2_tl-28_fileid_106.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_106.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_106.wav",
+    "snr": -2,
+    "file_len": 480000
+  },
+  "107": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03172_chp_0028_reader_02258_9_STRAFFIC_ch12_snr3_tl-26_fileid_107.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_107.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_107.wav",
+    "snr": 3,
+    "file_len": 480000
+  },
+  "108": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00081_chp_0018_reader_01595_44_DKITCHEN_ch04_snr-2_tl-35_fileid_108.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_108.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_108.wav",
+    "snr": -2,
+    "file_len": 480000
+  },
+  "109": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03392_chp_0005_reader_10174_9_SCAFE_ch04_snr-5_tl-29_fileid_109.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_109.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_109.wav",
+    "snr": -5,
+    "file_len": 480000
+  },
+  "11": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02229_chp_0006_reader_08214_19_NFIELD_ch04_snr4_tl-20_fileid_11.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_11.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_11.wav",
+    "snr": 4,
+    "file_len": 480000
+  },
+  "110": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00963_chp_0011_reader_00886_56_OHALLWAY_ch08_snr2_tl-33_fileid_110.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_110.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_110.wav",
+    "snr": 2,
+    "file_len": 480000
+  },
+  "111": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03331_chp_0003_reader_09033_72_TBUS_ch12_snr4_tl-29_fileid_111.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_111.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_111.wav",
+    "snr": 4,
+    "file_len": 480000
+  },
+  "112": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00028_chp_0038_reader_05919_27_OOFFICE_ch10_snr-1_tl-20_fileid_112.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_112.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_112.wav",
+    "snr": -1,
+    "file_len": 480000
+  },
+  "113": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04132_chp_0007_reader_10060_27_TBUS_ch01_snr-3_tl-25_fileid_113.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_113.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_113.wav",
+    "snr": -3,
+    "file_len": 480000
+  },
+  "114": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03557_chp_0002_reader_10567_5_SPSQUARE_ch13_snr1_tl-23_fileid_114.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_114.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_114.wav",
+    "snr": 1,
+    "file_len": 480000
+  },
+  "115": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03959_chp_0032_reader_05061_63_SPSQUARE_ch02_snr1_tl-35_fileid_115.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_115.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_115.wav",
+    "snr": 1,
+    "file_len": 480000
+  },
+  "116": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04149_chp_0001_reader_08232_6_DWASHING_ch06_snr3_tl-24_fileid_116.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_116.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_116.wav",
+    "snr": 3,
+    "file_len": 480000
+  },
+  "117": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03499_chp_0000_reader_07179_24_TMETRO_ch14_snr-4_tl-18_fileid_117.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_117.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_117.wav",
+    "snr": -4,
+    "file_len": 480000
+  },
+  "118": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04049_chp_0014_reader_06991_31_DLIVING_ch02_snr-1_tl-26_fileid_118.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_118.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_118.wav",
+    "snr": -1,
+    "file_len": 480000
+  },
+  "119": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04850_chp_0003_reader_08264_45_DLIVING_ch07_snr5_tl-30_fileid_119.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_119.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_119.wav",
+    "snr": 5,
+    "file_len": 480000
+  },
+  "12": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00153_chp_0004_reader_10715_21_SPSQUARE_ch15_snr2_tl-23_fileid_12.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_12.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_12.wav",
+    "snr": 2,
+    "file_len": 480000
+  },
+  "120": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01746_chp_0010_reader_07461_23_STRAFFIC_ch11_snr3_tl-26_fileid_120.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_120.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_120.wav",
+    "snr": 3,
+    "file_len": 480000
+  },
+  "13": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00344_chp_0001_reader_06220_24_DWASHING_ch15_snr2_tl-33_fileid_13.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_13.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_13.wav",
+    "snr": 2,
+    "file_len": 480000
+  },
+  "14": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00622_chp_0009_reader_05331_67_NFIELD_ch14_snr-1_tl-29_fileid_14.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_14.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_14.wav",
+    "snr": -1,
+    "file_len": 480000
+  },
+  "15": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00375_chp_0017_reader_05076_22_TMETRO_ch08_snr-4_tl-34_fileid_15.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_15.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_15.wav",
+    "snr": -4,
+    "file_len": 480000
+  },
+  "16": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03746_chp_0003_reader_09127_17_PSTATION_ch07_snr0_tl-30_fileid_16.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_16.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_16.wav",
+    "snr": 0,
+    "file_len": 480000
+  },
+  "17": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01652_chp_0035_reader_09440_46_NPARK_ch16_snr4_tl-27_fileid_17.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_17.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_17.wav",
+    "snr": 4,
+    "file_len": 480000
+  },
+  "18": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02857_chp_0004_reader_00061_6_NFIELD_ch01_snr5_tl-35_fileid_18.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_18.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_18.wav",
+    "snr": 5,
+    "file_len": 480000
+  },
+  "19": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04753_chp_0024_reader_08134_43_TBUS_ch15_snr5_tl-24_fileid_19.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_19.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_19.wav",
+    "snr": 5,
+    "file_len": 480000
+  },
+  "2": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03651_chp_0011_reader_04243_8_SCAFE_ch14_snr4_tl-30_fileid_2.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_2.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_2.wav",
+    "snr": 4,
+    "file_len": 480000
+  },
+  "20": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01406_chp_0030_reader_10089_25_OMEETING_ch14_snr2_tl-29_fileid_20.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_20.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_20.wav",
+    "snr": 2,
+    "file_len": 480000
+  },
+  "21": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03665_chp_0009_reader_03044_15_PSTATION_ch09_snr-5_tl-20_fileid_21.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_21.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_21.wav",
+    "snr": -5,
+    "file_len": 480000
+  },
+  "22": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03245_chp_0008_reader_05578_5_NPARK_ch06_snr5_tl-20_fileid_22.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_22.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_22.wav",
+    "snr": 5,
+    "file_len": 480000
+  },
+  "23": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02442_chp_0011_reader_11162_8_PRESTO_ch02_snr5_tl-18_fileid_23.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_23.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_23.wav",
+    "snr": 5,
+    "file_len": 480000
+  },
+  "24": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01371_chp_0018_reader_05730_8_PRESTO_ch03_snr5_tl-35_fileid_24.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_24.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_24.wav",
+    "snr": 5,
+    "file_len": 480000
+  },
+  "25": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04004_chp_0016_reader_01967_22_TCAR_ch01_snr-1_tl-31_fileid_25.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_25.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_25.wav",
+    "snr": -1,
+    "file_len": 480000
+  },
+  "26": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02947_chp_0001_reader_10156_30_DLIVING_ch06_snr-4_tl-26_fileid_26.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_26.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_26.wav",
+    "snr": -4,
+    "file_len": 480000
+  },
+  "27": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02103_chp_0006_reader_06414_34_OOFFICE_ch12_snr-5_tl-20_fileid_27.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_27.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_27.wav",
+    "snr": -5,
+    "file_len": 480000
+  },
+  "28": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03787_chp_0011_reader_11062_46_OMEETING_ch04_snr1_tl-20_fileid_28.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_28.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_28.wav",
+    "snr": 1,
+    "file_len": 480000
+  },
+  "29": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04759_chp_0002_reader_02859_7_PSTATION_ch04_snr5_tl-26_fileid_29.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_29.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_29.wav",
+    "snr": 5,
+    "file_len": 480000
+  },
+  "3": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02730_chp_0000_reader_00062_22_PRESTO_ch06_snr-2_tl-25_fileid_3.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_3.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_3.wav",
+    "snr": -2,
+    "file_len": 480000
+  },
+  "30": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00397_chp_0013_reader_05590_16_DWASHING_ch05_snr-6_tl-19_fileid_30.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_30.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_30.wav",
+    "snr": -6,
+    "file_len": 480000
+  },
+  "31": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03065_chp_0007_reader_10241_34_PCAFETER_ch07_snr4_tl-33_fileid_31.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_31.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_31.wav",
+    "snr": 4,
+    "file_len": 480000
+  },
+  "32": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02558_chp_0020_reader_02639_49_OMEETING_ch16_snr-5_tl-19_fileid_32.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_32.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_32.wav",
+    "snr": -5,
+    "file_len": 480000
+  },
+  "33": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03668_chp_0030_reader_04087_0_TBUS_ch07_snr-5_tl-27_fileid_33.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_33.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_33.wav",
+    "snr": -5,
+    "file_len": 480000
+  },
+  "34": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03560_chp_0001_reader_01491_50_NFIELD_ch10_snr2_tl-20_fileid_34.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_34.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_34.wav",
+    "snr": 2,
+    "file_len": 480000
+  },
+  "35": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00488_chp_0002_reader_01577_55_SCAFE_ch16_snr5_tl-30_fileid_35.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_35.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_35.wav",
+    "snr": 5,
+    "file_len": 480000
+  },
+  "36": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00677_chp_0022_reader_06672_10_NPARK_ch12_snr3_tl-20_fileid_36.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_36.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_36.wav",
+    "snr": 3,
+    "file_len": 480000
+  },
+  "37": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01982_chp_0015_reader_02538_12_PCAFETER_ch01_snr-6_tl-25_fileid_37.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_37.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_37.wav",
+    "snr": -6,
+    "file_len": 480000
+  },
+  "38": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03149_chp_0027_reader_04260_6_TBUS_ch06_snr2_tl-30_fileid_38.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_38.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_38.wav",
+    "snr": 2,
+    "file_len": 480000
+  },
+  "39": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04366_chp_0011_reader_05727_3_PSTATION_ch08_snr-2_tl-17_fileid_39.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_39.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_39.wav",
+    "snr": -2,
+    "file_len": 480000
+  },
+  "4": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01279_chp_0005_reader_06955_10_DLIVING_ch11_snr1_tl-29_fileid_4.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_4.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_4.wav",
+    "snr": 1,
+    "file_len": 480000
+  },
+  "40": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04106_chp_0055_reader_00189_16_PCAFETER_ch15_snr-3_tl-31_fileid_40.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_40.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_40.wav",
+    "snr": -3,
+    "file_len": 480000
+  },
+  "41": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03044_chp_0032_reader_03632_29_OOFFICE_ch13_snr5_tl-32_fileid_41.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_41.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_41.wav",
+    "snr": 5,
+    "file_len": 480000
+  },
+  "42": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03910_chp_0018_reader_04893_23_OMEETING_ch09_snr-1_tl-30_fileid_42.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_42.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_42.wav",
+    "snr": -1,
+    "file_len": 480000
+  },
+  "43": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04114_chp_0046_reader_05634_30_STRAFFIC_ch13_snr4_tl-16_fileid_43.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_43.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_43.wav",
+    "snr": 4,
+    "file_len": 480000
+  },
+  "44": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02353_chp_0003_reader_11301_60_PRESTO_ch14_snr-2_tl-20_fileid_44.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_44.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_44.wav",
+    "snr": -2,
+    "file_len": 480000
+  },
+  "45": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00115_chp_0021_reader_08788_15_TMETRO_ch15_snr-6_tl-30_fileid_45.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_45.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_45.wav",
+    "snr": -6,
+    "file_len": 480000
+  },
+  "46": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00260_chp_0015_reader_00469_6_NRIVER_ch13_snr1_tl-35_fileid_46.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_46.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_46.wav",
+    "snr": 1,
+    "file_len": 480000
+  },
+  "47": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01106_chp_0018_reader_08318_15_TCAR_ch03_snr-2_tl-19_fileid_47.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_47.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_47.wav",
+    "snr": -2,
+    "file_len": 480000
+  },
+  "48": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00026_chp_0039_reader_04408_30_NPARK_ch03_snr2_tl-29_fileid_48.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_48.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_48.wav",
+    "snr": 2,
+    "file_len": 480000
+  },
+  "49": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01296_chp_0015_reader_00727_56_PRESTO_ch10_snr-1_tl-26_fileid_49.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_49.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_49.wav",
+    "snr": -1,
+    "file_len": 480000
+  },
+  "5": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02715_chp_0010_reader_11065_57_DWASHING_ch02_snr-3_tl-30_fileid_5.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_5.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_5.wav",
+    "snr": -3,
+    "file_len": 480000
+  },
+  "50": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02252_chp_0003_reader_05928_3_OHALLWAY_ch02_snr2_tl-16_fileid_50.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_50.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_50.wav",
+    "snr": 2,
+    "file_len": 480000
+  },
+  "51": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03940_chp_0009_reader_00142_52_OHALLWAY_ch09_snr4_tl-23_fileid_51.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_51.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_51.wav",
+    "snr": 4,
+    "file_len": 480000
+  },
+  "52": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03280_chp_0012_reader_05618_18_OHALLWAY_ch12_snr-2_tl-28_fileid_52.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_52.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_52.wav",
+    "snr": -2,
+    "file_len": 480000
+  },
+  "53": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02477_chp_0003_reader_10633_10_TBUS_ch03_snr-5_tl-17_fileid_53.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_53.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_53.wav",
+    "snr": -5,
+    "file_len": 480000
+  },
+  "54": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01296_chp_0015_reader_00727_29_PSTATION_ch13_snr-2_tl-18_fileid_54.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_54.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_54.wav",
+    "snr": -2,
+    "file_len": 480000
+  },
+  "55": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04436_chp_0015_reader_08468_1_PRESTO_ch07_snr4_tl-22_fileid_55.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_55.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_55.wav",
+    "snr": 4,
+    "file_len": 480000
+  },
+  "56": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03892_chp_0013_reader_08226_33_DKITCHEN_ch08_snr0_tl-35_fileid_56.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_56.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_56.wav",
+    "snr": 0,
+    "file_len": 480000
+  },
+  "57": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04132_chp_0007_reader_10060_47_PCAFETER_ch09_snr-3_tl-19_fileid_57.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_57.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_57.wav",
+    "snr": -3,
+    "file_len": 480000
+  },
+  "58": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03008_chp_0003_reader_03513_9_TCAR_ch07_snr5_tl-26_fileid_58.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_58.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_58.wav",
+    "snr": 5,
+    "file_len": 480000
+  },
+  "59": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02965_chp_0004_reader_05356_43_OOFFICE_ch09_snr0_tl-33_fileid_59.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_59.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_59.wav",
+    "snr": 0,
+    "file_len": 480000
+  },
+  "6": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02509_chp_0004_reader_00869_25_OHALLWAY_ch10_snr0_tl-19_fileid_6.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_6.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_6.wav",
+    "snr": 0,
+    "file_len": 480000
+  },
+  "60": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00977_chp_0004_reader_06191_7_TCAR_ch14_snr3_tl-16_fileid_60.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_60.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_60.wav",
+    "snr": 3,
+    "file_len": 480000
+  },
+  "61": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03374_chp_0001_reader_01650_9_TCAR_ch10_snr2_tl-19_fileid_61.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_61.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_61.wav",
+    "snr": 2,
+    "file_len": 480000
+  },
+  "62": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04450_chp_0008_reader_06912_4_NPARK_ch01_snr-1_tl-32_fileid_62.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_62.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_62.wav",
+    "snr": -1,
+    "file_len": 480000
+  },
+  "63": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02285_chp_0004_reader_01108_4_TCAR_ch12_snr-3_tl-21_fileid_63.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_63.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_63.wav",
+    "snr": -3,
+    "file_len": 480000
+  },
+  "64": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00630_chp_0001_reader_08593_23_PRESTO_ch08_snr0_tl-34_fileid_64.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_64.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_64.wav",
+    "snr": 0,
+    "file_len": 480000
+  },
+  "65": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03560_chp_0001_reader_01491_102_SCAFE_ch12_snr-4_tl-34_fileid_65.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_65.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_65.wav",
+    "snr": -4,
+    "file_len": 480000
+  },
+  "66": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03815_chp_0001_reader_02525_2_TMETRO_ch12_snr-3_tl-22_fileid_66.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_66.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_66.wav",
+    "snr": -3,
+    "file_len": 480000
+  },
+  "67": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01417_chp_0005_reader_09173_15_PSTATION_ch03_snr-4_tl-32_fileid_67.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_67.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_67.wav",
+    "snr": -4,
+    "file_len": 480000
+  },
+  "68": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04845_chp_0005_reader_07674_23_DWASHING_ch01_snr4_tl-25_fileid_68.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_68.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_68.wav",
+    "snr": 4,
+    "file_len": 480000
+  },
+  "69": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02919_chp_0003_reader_01441_6_NRIVER_ch08_snr4_tl-24_fileid_69.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_69.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_69.wav",
+    "snr": 4,
+    "file_len": 480000
+  },
+  "7": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03293_chp_0002_reader_11118_6_OOFFICE_ch01_snr-4_tl-19_fileid_7.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_7.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_7.wav",
+    "snr": -4,
+    "file_len": 480000
+  },
+  "70": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04408_chp_0018_reader_08164_57_DWASHING_ch03_snr-6_tl-23_fileid_70.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_70.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_70.wav",
+    "snr": -6,
+    "file_len": 480000
+  },
+  "71": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03959_chp_0032_reader_05061_102_PCAFETER_ch13_snr4_tl-18_fileid_71.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_71.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_71.wav",
+    "snr": 4,
+    "file_len": 480000
+  },
+  "72": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02509_chp_0002_reader_03315_70_DWASHING_ch09_snr0_tl-33_fileid_72.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_72.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_72.wav",
+    "snr": 0,
+    "file_len": 480000
+  },
+  "73": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03946_chp_0003_reader_09709_19_DWASHING_ch16_snr-5_tl-23_fileid_73.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_73.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_73.wav",
+    "snr": -5,
+    "file_len": 480000
+  },
+  "74": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04836_chp_0007_reader_01735_34_TMETRO_ch07_snr0_tl-16_fileid_74.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_74.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_74.wav",
+    "snr": 0,
+    "file_len": 480000
+  },
+  "75": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03392_chp_0012_reader_10174_21_PSTATION_ch06_snr-4_tl-24_fileid_75.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_75.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_75.wav",
+    "snr": -4,
+    "file_len": 480000
+  },
+  "76": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00255_chp_0010_reader_04471_18_DKITCHEN_ch11_snr5_tl-19_fileid_76.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_76.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_76.wav",
+    "snr": 5,
+    "file_len": 480000
+  },
+  "77": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03959_chp_0032_reader_05061_94_OHALLWAY_ch15_snr-4_tl-29_fileid_77.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_77.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_77.wav",
+    "snr": -4,
+    "file_len": 480000
+  },
+  "78": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01215_chp_0007_reader_07280_29_OOFFICE_ch11_snr-5_tl-30_fileid_78.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_78.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_78.wav",
+    "snr": -5,
+    "file_len": 480000
+  },
+  "79": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04106_chp_0003_reader_06930_14_OOFFICE_ch16_snr2_tl-33_fileid_79.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_79.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_79.wav",
+    "snr": 2,
+    "file_len": 480000
+  },
+  "8": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02285_chp_0004_reader_01108_9_NRIVER_ch03_snr2_tl-19_fileid_8.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_8.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_8.wav",
+    "snr": 2,
+    "file_len": 480000
+  },
+  "80": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_00153_chp_0004_reader_10715_29_NFIELD_ch13_snr4_tl-35_fileid_80.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_80.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_80.wav",
+    "snr": 4,
+    "file_len": 480000
+  },
+  "81": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03968_chp_0007_reader_10257_4_TBUS_ch13_snr-3_tl-20_fileid_81.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_81.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_81.wav",
+    "snr": -3,
+    "file_len": 480000
+  },
+  "82": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01731_chp_0003_reader_11265_56_TMETRO_ch16_snr3_tl-19_fileid_82.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_82.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_82.wav",
+    "snr": 3,
+    "file_len": 480000
+  },
+  "83": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03815_chp_0007_reader_06177_12_NRIVER_ch10_snr-4_tl-25_fileid_83.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_83.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_83.wav",
+    "snr": -4,
+    "file_len": 480000
+  },
+  "84": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01279_chp_0020_reader_08103_24_DKITCHEN_ch13_snr-6_tl-21_fileid_84.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_84.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_84.wav",
+    "snr": -6,
+    "file_len": 480000
+  },
+  "85": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04840_chp_0003_reader_07707_55_STRAFFIC_ch10_snr-6_tl-18_fileid_85.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_85.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_85.wav",
+    "snr": -6,
+    "file_len": 480000
+  },
+  "86": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01552_chp_0024_reader_07867_37_TBUS_ch09_snr-2_tl-19_fileid_86.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_86.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_86.wav",
+    "snr": -2,
+    "file_len": 480000
+  },
+  "87": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03171_chp_0011_reader_04433_25_DLIVING_ch08_snr-6_tl-29_fileid_87.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_87.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_87.wav",
+    "snr": -6,
+    "file_len": 480000
+  },
+  "88": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03063_chp_0014_reader_11220_17_SPSQUARE_ch03_snr5_tl-33_fileid_88.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_88.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_88.wav",
+    "snr": 5,
+    "file_len": 480000
+  },
+  "89": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02619_chp_0010_reader_07860_8_TMETRO_ch09_snr4_tl-19_fileid_89.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_89.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_89.wav",
+    "snr": 4,
+    "file_len": 480000
+  },
+  "9": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01283_chp_0081_reader_06501_53_NFIELD_ch16_snr2_tl-18_fileid_9.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_9.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_9.wav",
+    "snr": 2,
+    "file_len": 480000
+  },
+  "90": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01415_chp_0018_reader_07776_18_PSTATION_ch14_snr-2_tl-35_fileid_90.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_90.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_90.wav",
+    "snr": -2,
+    "file_len": 480000
+  },
+  "91": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02726_chp_0028_reader_08303_10_PCAFETER_ch14_snr4_tl-25_fileid_91.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_91.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_91.wav",
+    "snr": 4,
+    "file_len": 480000
+  },
+  "92": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03855_chp_0007_reader_11207_6_DWASHING_ch13_snr-1_tl-20_fileid_92.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_92.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_92.wav",
+    "snr": -1,
+    "file_len": 480000
+  },
+  "93": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04733_chp_0031_reader_10929_21_NRIVER_ch15_snr-1_tl-35_fileid_93.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_93.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_93.wav",
+    "snr": -1,
+    "file_len": 480000
+  },
+  "94": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02501_chp_0014_reader_02604_61_PCAFETER_ch02_snr3_tl-20_fileid_94.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_94.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_94.wav",
+    "snr": 3,
+    "file_len": 480000
+  },
+  "95": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_03893_chp_0004_reader_06273_51_NFIELD_ch08_snr-4_tl-23_fileid_95.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_95.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_95.wav",
+    "snr": -4,
+    "file_len": 480000
+  },
+  "96": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_02845_chp_0006_reader_01687_13_DKITCHEN_ch10_snr-4_tl-26_fileid_96.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_96.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_96.wav",
+    "snr": -4,
+    "file_len": 480000
+  },
+  "97": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_04633_chp_0004_reader_02118_35_TMETRO_ch11_snr2_tl-31_fileid_97.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_97.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_97.wav",
+    "snr": 2,
+    "file_len": 480000
+  },
+  "98": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01436_chp_0016_reader_04278_10_OMEETING_ch10_snr-2_tl-23_fileid_98.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_98.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_98.wav",
+    "snr": -2,
+    "file_len": 480000
+  },
+  "99": {
+    "mix": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noisy\\book_01857_chp_0006_reader_00415_14_NRIVER_ch16_snr-4_tl-26_fileid_99.wav",
+    "clean": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\clean\\clean_fileid_99.wav",
+    "noise": "D:/Work/Dataset/speech/DNS-Challenge_Demand\\noise\\noise_fileid_99.wav",
+    "snr": -4,
+    "file_len": 480000
+  }
+}
